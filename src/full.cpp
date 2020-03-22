@@ -1,4 +1,4 @@
-#include "/usr/local/include/gmp.h"
+#include <gmp.h>
 #include <iostream>
 
 int main(int argc, char** argv) {
