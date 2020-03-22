@@ -1,0 +1,4 @@
+/Users/jafri/cpp-boilerplate/CMakeFiles/rebuild_cache.dir
+/Users/jafri/cpp-boilerplate/CMakeFiles/edit_cache.dir
+/Users/jafri/cpp-boilerplate/CMakeFiles/full.dir
+/Users/jafri/cpp-boilerplate/CMakeFiles/mini.dir

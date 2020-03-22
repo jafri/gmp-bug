@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jafri/cpp-boilerplate/src/full.cpp
+/usr/local/include/gmp.h
+-
+iostream
+-
+
+/usr/local/include/gmp.h
+iosfwd
+-
+cstdio
+-
+stddef.h
+-
+limits.h
+-
+

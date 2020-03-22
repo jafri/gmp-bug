@@ -1,0 +1,8 @@
+# vim
+*.swp
+*~
+.ycm_extra_conf.*
+
+# project
+/build
+.vscode
